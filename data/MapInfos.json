@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Rumah Rinfa","order":3,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":857.4545454545455,"scrollY":449.4545454545455},
+{"id":2,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":840,"scrollY":440.72727272727275},
 {"id":3,"expanded":true,"name":"Rumah Rinfa Luar","order":2,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"Desa Anta","order":4,"parentId":2,"scrollX":534,"scrollY":319},
 {"id":5,"expanded":false,"name":"Rumah Kepala Desa","order":5,"parentId":4,"scrollX":421.3333333333333,"scrollY":400.6666666666667},
