@@ -1,7 +1,13 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Zaki_Battler","characterIndex":0,"characterName":"Zaki_Walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Zaki","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zaki","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Hotaru_Battler","characterIndex":0,"characterName":"Hotaru_Walking","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Hotaru","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hotaru","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Kaede_Battler","characterIndex":0,"characterName":"Kaede_Walking","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Kaede","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kaede","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Nozomi_Battler","characterIndex":0,"characterName":"Nozomi_Walking","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nozomi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nozomi","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Shizu_Battler","characterIndex":0,"characterName":"Shizu_Walking","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Shizu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shizu","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
